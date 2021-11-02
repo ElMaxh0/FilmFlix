@@ -1,4 +1,4 @@
-const API_KEY='ecd7e79e5be97a4ef7f7d75d4d6c31fa'
+const API_KEY=''
 const API_BASE='https://api.themoviedb.org/3'
 
 const apiQuery = async (query) =>{
